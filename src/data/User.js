@@ -157,14 +157,14 @@ const Users = {
       portfolio: "",
     },
   },
-  "temp10": {
-    name: "Temp 10",
-    branch: "IT",
+   "Aditya-Dalvi": {
+    name: "Aditya Dalvi",
+    branch: "IOT",
     description: "Exploring | Learning",
     links: {
-      github: "https://github.com/temp10",
-      instagram: "https://www.instagram.com/temp10/?hl=en",
-      linkedin: "https://www.linkedin.com/in/temp10/",
+      github: "https://github.com/Aditya-Dalvi",
+      instagram: "https://www.instagram.com/aditya_dalvi_07/",
+      linkedin: "https://bit.ly/3CfK8CR",
       portfolio: "",
     },
   },
